@@ -525,4 +525,4 @@ NAMES = [ #10 строк в строке кроме последней
 	"DARELL", "BRODERICK", "ALONSO",
 ]
 
-	print(compute())
+	print(calc())
