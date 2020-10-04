@@ -17,4 +17,4 @@ def calc():
 	a = sum(i for (i, x) in enumerate(b) if not x)# суммируем все числа которые не могут быть записаны
 	return str(a)
 
-	print(compute())
+	print(calc())
